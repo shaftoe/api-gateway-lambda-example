@@ -1,0 +1,5 @@
+region := us-east-1
+profile_name := <aws profile name from ~/.aws/credentials to use, ex "production">
+domain_name := api.example.com
+pushover_token := abcdefghiABCDEFGHI
+pushover_userkey := lmnopqrstuLMNOPQRSTU

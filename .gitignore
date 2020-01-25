@@ -3,5 +3,5 @@
 *.tfstate
 *.tfstate.*
 venv
-config.sh
+config.mk
 .vscode/
